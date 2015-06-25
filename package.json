@@ -1,0 +1,22 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "My resume",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clakeb/cblakebarber.git"
+  },
+  "author": "C. Blake Barber",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/clakeb/cblakebarber/issues"
+  },
+  "homepage": "https://github.com/clakeb/cblakebarber#readme",
+  "dependencies": {
+    "gulp": "^3.9.0"
+  }
+}
