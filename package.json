@@ -17,9 +17,7 @@
   },
   "homepage": "https://github.com/clakeb/cblakebarber#readme",
   "dependencies": {
-    "gulp": "^3.9.0"
   },
   "devDependencies": {
-    "gulp-sass": "^2.0.2"
   }
 }
