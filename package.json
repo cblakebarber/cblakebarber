@@ -1,23 +1,14 @@
 {
-  "name": "resume",
-  "version": "1.0.0",
-  "description": "My resume",
-  "main": "gulpfile.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "name": "foundation-libsass-template",
+  "version": "0.0.1",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/clakeb/cblakebarber.git"
-  },
-  "author": "C. Blake Barber",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/clakeb/cblakebarber/issues"
-  },
-  "homepage": "https://github.com/clakeb/cblakebarber#readme",
-  "dependencies": {
+    "url": "https://github.com/zurb/foundation-libsass-template.git"
   },
   "devDependencies": {
+    "node-sass": "~2.0.1",
+    "grunt": "~0.4.5",
+    "grunt-contrib-watch": "~0.6.1",
+    "grunt-sass": "~0.18.0"
   }
 }
